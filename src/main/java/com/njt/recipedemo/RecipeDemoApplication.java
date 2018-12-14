@@ -1,4 +1,4 @@
-package com.njt.recipedemo.recipedemo;
+package com.njt.recipedemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

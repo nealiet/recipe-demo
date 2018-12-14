@@ -1,4 +1,4 @@
-package com.njt.recipedemo.recipedemo.domain;
+package com.njt.recipedemo.domain;
 
 public enum Difficulty {
 
